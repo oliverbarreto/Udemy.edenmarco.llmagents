@@ -4,6 +4,13 @@ Code Repositories:
 - [Course Ice Breaker Github Repository](https://github.com/emarco177/ice_breaker)
 - [Course Documentation Helper Github Repository](https://github.com/emarco177/documentation-helper)
 
+Papers:
+- [Paper - N-Shot Prompting- Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916)
+- [Paper - Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903v1)
+- [Paper - REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
+
+
+
 Sections:
 - [Prompt Engineering Theory Section](https://www.udemy.com/course/langchain/learn/lecture/46160669/?instructorPreviewMode=student_v4#overview) 
 - [Course Troubleshooting Section](https://www.udemy.com/course/langchain/learn/lecture/38302002#overview)
@@ -213,13 +220,13 @@ Discord Community:
 - [Paper N-Shot Prompting- Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916)
 
 ## Section 9.64
-- [Paper N-Shot Prompting- Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916)
+- [Paper -  N-Shot Prompting- Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916)
 
 ## Section 9.65
 - [Paper - Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903v1)
 
 ## Section 9.66
-- [Paper - REAC T: SYNERGIZING REASONING AND ACTING INLANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
+- [Paper - REACT: SYNERGIZING REASONING AND ACTING INLANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
 
 
 # Section 10
